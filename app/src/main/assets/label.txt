@@ -1,0 +1,9 @@
+GedungFTMM
+Mobil
+RambuBelokKanan
+RambuBelokKiri
+RambuPutarBalik
+RambuTitikKumpul
+ZebraCross
+orang
+sepedamotor
